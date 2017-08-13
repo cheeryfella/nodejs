@@ -1,4 +1,4 @@
-FROM alpine:3.6
+FROM cheeryfella/nodejs
 
 MAINTAINER CheeryFella <cheeryfella@gmail.com>
 
